@@ -2,7 +2,7 @@ body {
   margin: 0;
   overflow: hidden;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   height: 100vh;
   background: radial-gradient(ellipse closest-side at 50% 60%, #FAF6EC, #FAF6EC 25%, #FAF6EC);
